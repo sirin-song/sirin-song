@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python 3.x, Django 4.x
 - 🌱 I’m currently learning Django REST Framework
 - 💞️ I’m looking to collaborate on any interesting projects
-- 📫 How to reach me: mougrim@bards-lair.com
+- 📫 How to reach me: mougrim@bards-lair.com mougrim@gmail.com
 
 <!---
 sirin-song/sirin-song is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
